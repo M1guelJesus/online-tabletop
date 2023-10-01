@@ -1,0 +1,7 @@
+{
+	"tabWidth": 4,
+	"semi": true,
+	"bracketSameLine": true,
+	"useTabs": true,
+	"printWidth": 100
+}
