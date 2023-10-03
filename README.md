@@ -1,7 +1,7 @@
 # Online Tabletop Simulator
 
 <p align="center">
-  <img src="https://shields.io/badge/react-18.18.0-61DAFB?logo=react&style=for-the-badge&logoColor=white" alt="react">
+  <img src="https://shields.io/badge/vue-^3.3.2-61DAFB?logo=react&style=for-the-badge&logoColor=white" alt="vue">
   <img src="https://shields.io/badge/tailwind%20css-^3.3.2-06B6D4?logo=Tailwind%20CSS&style=for-the-badge&logoColor=white" alt="tailwind-css">
   <img src="https://shields.io/badge/eslint-^8.2.0-444?logo=eslint&style=for-the-badge&logoColor=white" alt="eslint">
   <img src="https://shields.io/badge/python-^3.10-306998?logo=python&style=for-the-badge&logoColor=white" alt="python">
