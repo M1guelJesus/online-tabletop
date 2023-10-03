@@ -1,6 +1,6 @@
-# Online Tabletop Simulator Frontend
+# Online Tabletop Simulator Backend
 
-The frontend for a simple online tabletop simulator using websockets
+The backend for a simple online tabletop simulator using websockets
 
 ## Description
 
@@ -9,12 +9,11 @@ This was a simple project that I made to experiment with websockets, whoever it 
 ### Project Setup
 
 ```sh
-poetry install
-poetry shell
+npm install
 ```
 
-### Compile and Hot-Reload for Development inside the shell
+### Compile and Hot-Reload for Development
 
 ```sh
-uvicorn main:app --reload"
+npm run dev
 ```
